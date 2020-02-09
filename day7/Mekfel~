@@ -1,0 +1,3 @@
+include mantap.mk mantap.txt
+test:
+	echo "other method"

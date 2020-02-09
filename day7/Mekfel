@@ -1,0 +1,3 @@
+include mantap.mk jiwa.mk mantap.txt
+test:
+	echo "other method"

@@ -1,0 +1,6 @@
+# LISP 2
+
+some operation
+(+ 2 3)
+Some basic funtion
+(define (rollet-wheel)(random 37))
